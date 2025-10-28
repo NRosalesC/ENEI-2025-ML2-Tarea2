@@ -115,3 +115,11 @@ mnist_test = datasets.MNIST(
 )
 ```
 
+---
+
+### Deliverables
+
+  * You must fork the original repository, and turn in a link to your group's repository.
+  * This fork must have a Jupyter notebook in the src folder, which contains all the code to solve each of the problems.
+  * For the written commentary, you may choose between presenting it in Markdown cells within the Jupyter notebook or creating a separate README.md inside the src folder.
+
